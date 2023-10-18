@@ -1,16 +1,13 @@
-### Olá, me chamo Abner 👋
+# **Abner Torres**
 
-<!--
-**bnerTT/bnerTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Information Technology Student`**
 
-Here are some ideas to get you started:
+I'm currently in my fourth semester of Information Technology Degree at Universidade Federal Rural do Semi-Árido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
