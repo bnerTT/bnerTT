@@ -2,7 +2,7 @@
 
 **`Information Technology Student`**
 
-I'm currently in my fifth semester of Information Technology Degree at Universidade Federal Rural do Semi-Árido.
+I'm currently in my first semester of Information Technology Degree at Federal University of Rio Grande do Norte.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bnerTT&theme=tokyonight" />
